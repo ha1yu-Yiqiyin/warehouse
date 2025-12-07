@@ -6,6 +6,8 @@ JEPaaS /je/postil/postil/loadPostil 接口 SQL 注入漏洞
 >
 >Official website：https://jepaas.com/download
 >
+>Affected version: v7.2.8
+>
 >Official demo website：https://example.jepaas.com/login.html
 
 
